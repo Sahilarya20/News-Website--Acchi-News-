@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/News-Website--Acchi-News-/static/css/main.c93bd4cb.chunk.css",
+    "main.js": "/News-Website--Acchi-News-/static/js/main.4fa758b2.chunk.js",
+    "main.js.map": "/News-Website--Acchi-News-/static/js/main.4fa758b2.chunk.js.map",
+    "runtime-main.js": "/News-Website--Acchi-News-/static/js/runtime-main.8b69dc13.js",
+    "runtime-main.js.map": "/News-Website--Acchi-News-/static/js/runtime-main.8b69dc13.js.map",
+    "static/js/2.a3901300.chunk.js": "/News-Website--Acchi-News-/static/js/2.a3901300.chunk.js",
+    "static/js/2.a3901300.chunk.js.map": "/News-Website--Acchi-News-/static/js/2.a3901300.chunk.js.map",
+    "static/js/3.f300416b.chunk.js": "/News-Website--Acchi-News-/static/js/3.f300416b.chunk.js",
+    "static/js/3.f300416b.chunk.js.map": "/News-Website--Acchi-News-/static/js/3.f300416b.chunk.js.map",
+    "index.html": "/News-Website--Acchi-News-/index.html",
+    "static/css/main.c93bd4cb.chunk.css.map": "/News-Website--Acchi-News-/static/css/main.c93bd4cb.chunk.css.map",
+    "static/js/2.a3901300.chunk.js.LICENSE.txt": "/News-Website--Acchi-News-/static/js/2.a3901300.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b69dc13.js",
+    "static/js/2.a3901300.chunk.js",
+    "static/css/main.c93bd4cb.chunk.css",
+    "static/js/main.4fa758b2.chunk.js"
+  ]
+}
